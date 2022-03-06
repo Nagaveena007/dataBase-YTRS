@@ -204,5 +204,63 @@
         }
       ]
     }
+  ],
+  "users": [
+    {
+      "Userimg": "./faces/face1.jpg",
+      "name": "Veena",
+      "variant": "success",
+      "now": 25,
+      "email": "veena@gmail.com",
+      "password": "veena"
+    },
+    {
+      "Userimg": "./faces/face2.jpg",
+      "name": "Veena",
+      "variant": "danger",
+      "now": 75,
+      "email": "veena@gmail.com",
+      "password": "veena"
+    },
+    {
+      "Userimg": "./faces/face3.jpg",
+      "name": "Veena",
+      "variant": "warning",
+      "now": 90,
+      "email": "veena@gmail.com",
+      "password": "veena"
+    },
+    {
+      "Userimg": "./faces/face4.jpg",
+      "name": "Veena",
+      "variant": "success",
+      "now": 75,
+      "email": "veena@gmail.com",
+      "password": "veena"
+    },
+    {
+      "Userimg": "./faces/face5.jpg",
+      "name": "Veena",
+      "variant": "danger",
+      "now": 90,
+      "email": "veena@gmail.com",
+      "password": "veena"
+    },
+    {
+      "Userimg": "./faces/face6.jpg",
+      "name": "Veena",
+      "variant": "info",
+      "now": 50,
+      "email": "veena@gmail.com",
+      "password": "veena"
+    },
+    {
+      "Userimg": "./faces/face7.jpg",
+      "name": "Veena",
+      "variant": "warning",
+      "now": 50,
+      "email": "veena@gmail.com",
+      "password": "veena"
+    }
   ]
 }
