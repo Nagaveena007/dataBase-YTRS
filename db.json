@@ -8,6 +8,7 @@
       "price": 10,
       "title": "How to Make Perfect Pasta | Gennaro Contaldo",
       "cookingTime": 10,
+      "stock": 20,
       "ingredients": [
         {
           "items": "Speghati",
@@ -45,6 +46,7 @@
       "price": 15,
       "title": "How to Make Perfect Soupe | Gennaro Contaldo",
       "cookingTime": 10,
+      "stock": 12,
       "ingredients": [
         {
           "items": "Speghati",
@@ -78,6 +80,7 @@
       "price": 12,
       "title": "How to Make Perfect Sandwitch | Gennaro Contaldo",
       "cookingTime": 10,
+      "stock": 15,
       "ingredients": [
         {
           "items": "Speghati",
@@ -112,6 +115,7 @@
 
       "title": "How to Make Perfect Pizza | Gennaro Contaldo",
       "cookingTime": 10,
+      "stock": 10,
       "ingredients": [
         {
           "items": "Speghati",
@@ -146,6 +150,7 @@
 
       "title": "How to Make Perfect Garlic Bread | Gennaro Contaldo",
       "cookingTime": 10,
+      "stock": 17,
       "ingredients": [
         {
           "items": "Speghati",
@@ -179,6 +184,7 @@
       "price": 15,
       "title": "How to Make Delicious Penne | Gennaro Contaldo",
       "cookingTime": 10,
+      "stock": 18,
       "ingredients": [
         {
           "items": "Speghati",
@@ -208,11 +214,11 @@
   "users": [
     {
       "Userimg": "./faces/face1.jpg",
-      "name": "Veena",
+      "name": "Ross",
       "variant": "success",
       "now": 25,
-      "email": "veena@gmail.com",
-      "password": "veena"
+      "email": "ross@gmail.com",
+      "password": "rossgaller"
     },
     {
       "Userimg": "./faces/face2.jpg",
@@ -224,43 +230,88 @@
     },
     {
       "Userimg": "./faces/face3.jpg",
-      "name": "Veena",
+      "name": "david",
       "variant": "warning",
       "now": 90,
-      "email": "veena@gmail.com",
-      "password": "veena"
+      "email": "warner@gmail.com",
+      "password": "david"
     },
     {
       "Userimg": "./faces/face4.jpg",
-      "name": "Veena",
+      "name": "reet",
       "variant": "success",
       "now": 75,
-      "email": "veena@gmail.com",
-      "password": "veena"
+      "email": "reet@gmail.com",
+      "password": "reet"
     },
     {
       "Userimg": "./faces/face5.jpg",
-      "name": "Veena",
+      "name": "jenny",
       "variant": "danger",
       "now": 90,
-      "email": "veena@gmail.com",
-      "password": "veena"
+      "email": "jenny@gmail.com",
+      "password": "jenny"
     },
     {
       "Userimg": "./faces/face6.jpg",
-      "name": "Veena",
+      "name": "subbi",
       "variant": "info",
       "now": 50,
-      "email": "veena@gmail.com",
-      "password": "veena"
+      "email": "subbi@gmail.com",
+      "password": "subbi"
     },
     {
       "Userimg": "./faces/face7.jpg",
-      "name": "Veena",
+      "name": "sidda",
       "variant": "warning",
       "now": 50,
-      "email": "veena@gmail.com",
-      "password": "veena"
+      "email": "sidda@gmail.com",
+      "password": "sidda"
+    }
+  ],
+
+  "orders": [
+    {
+      "orderId": "92deDchnk19pocfef",
+      "price": 10,
+      "qty": 2,
+      "status": "pending",
+      "lable": "badge-danger"
+    },
+    {
+      "orderId": "92deDchnk19pocfes",
+      "price": 15,
+      "qty": 3,
+      "status": "progress",
+      "lable": "badge-warning"
+    },
+    {
+      "orderId": "92drDchnk19pocfew",
+      "price": 12,
+      "qty": 1,
+      "status": "progress",
+      "lable": "badge-success"
+    },
+    {
+      "orderId": "92drDchnk19pocfeq",
+      "price": 6,
+      "qty": 1,
+      "status": "progress",
+      "lable": "badge-info"
+    },
+    {
+      "orderId": "92diDchnk19pocfek",
+      "price": 8,
+      "qty": 3,
+      "status": "progress",
+      "lable": "badge-danger"
+    },
+    {
+      "orderId": "92diDchnk19pocfej",
+      "price": 15,
+      "qty": 2,
+      "status": "progress",
+      "lable": "badge-primary"
     }
   ]
 }
