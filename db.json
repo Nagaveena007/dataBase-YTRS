@@ -357,6 +357,62 @@
       "now": 50,
       "email": "sidda@gmail.com",
       "password": "sidda"
+    },
+    {
+      "Userimg": "./faces/face1.jpg",
+      "name": "Ross",
+      "variant": "success",
+      "now": 25,
+      "email": "ross@gmail.com",
+      "password": "rossgaller"
+    },
+    {
+      "Userimg": "./faces/face2.jpg",
+      "name": "Veena",
+      "variant": "danger",
+      "now": 75,
+      "email": "veena@gmail.com",
+      "password": "veena"
+    },
+    {
+      "Userimg": "./faces/face3.jpg",
+      "name": "david",
+      "variant": "warning",
+      "now": 90,
+      "email": "warner@gmail.com",
+      "password": "david"
+    },
+    {
+      "Userimg": "./faces/face4.jpg",
+      "name": "reet",
+      "variant": "success",
+      "now": 75,
+      "email": "reet@gmail.com",
+      "password": "reet"
+    },
+    {
+      "Userimg": "./faces/face5.jpg",
+      "name": "jenny",
+      "variant": "danger",
+      "now": 90,
+      "email": "jenny@gmail.com",
+      "password": "jenny"
+    },
+    {
+      "Userimg": "./faces/face6.jpg",
+      "name": "subbi",
+      "variant": "info",
+      "now": 50,
+      "email": "subbi@gmail.com",
+      "password": "subbi"
+    },
+    {
+      "Userimg": "./faces/face7.jpg",
+      "name": "sidda",
+      "variant": "warning",
+      "now": 50,
+      "email": "sidda@gmail.com",
+      "password": "sidda"
     }
   ],
 
