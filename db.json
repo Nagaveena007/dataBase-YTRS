@@ -12,12 +12,73 @@
       "ingredients": [
         {
           "items": "Speghati",
-          "quantity": 10,
-          "unit": "gm"
+          "quantity": 1,
+          "unit": "pack"
+        },
+
+        {
+          "items": "Salt",
+          "quantity": 1,
+          "unit": "tbsp"
         },
         {
-          "items": "Pesto",
-          "quantity": 10,
+          "items": "Oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "items": "Tomatoes",
+          "quantity": 4,
+          "unit": "no's"
+        },
+        {
+          "items": "Chopped Garlic",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "items": "Chopped Onion",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "items": "Capsicum",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "items": "Red Chili Powder",
+          "quantity": 0.5,
+          "unit": "tbsp"
+        },
+        {
+          "items": "Sugar",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "items": "Black Pepper Powder",
+          "quantity": 0.5,
+          "unit": "tbsp"
+        },
+        {
+          "items": "Mixed Herbs",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "items": "Red Chili Flakes",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "items": "Tomato Sauce (Optional)",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "items": "Grated Cheese",
+          "quantity": 30,
           "unit": "gm"
         }
       ],
@@ -49,11 +110,40 @@
       "stock": 12,
       "ingredients": [
         {
-          "items": "Speghati",
-          "quantity": 10,
+          "items": "pumpkin",
+          "quantity": 1,
+          "unit": "kg"
+        },
+        {
+          "items": "medium onion",
+          "quantity": 2,
+          "unit": "no's"
+        },
+        {
+          "items": "medium potato",
+          "quantity": 4,
+          "unit": "no's"
+        },
+        {
+          "items": "carrot",
+          "quantity": 2,
+          "unit": "no's"
+        },
+        {
+          "items": "butter",
+          "quantity": 30,
           "unit": "gm"
         },
-        { "items": "Pesto", "quantity": 10, "unit": "gm" }
+        {
+          "items": "liter of water",
+          "quantity": 1.25,
+          "unit": "lt"
+        },
+        { "items": "Salt", "quantity": 1, "unit": "tbsp" },
+        { "items": "Sugar", "quantity": 1, "unit": "" },
+        { "items": "Nutmeg", "quantity": 100, "unit": "ml" },
+        { "items": "fresh cream", "quantity": 2, "unit": "tbsp" },
+        { "items": "Chopped parsley", "quantity": 10, "unit": "gm" }
       ],
       "comments": [
         {
